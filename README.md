@@ -1,6 +1,6 @@
 # CTRNF Sheet
 
-##Introduction
+## Introduction
 
 CTRNF Sheet is a web application planned to be used as a desktop application.
 
@@ -15,7 +15,7 @@ Here's the list of the features (v0.1.0):
 - Search and tell how far your best time and best lap are from the world records (taken from [crashteamracing.com](https://crashteamracing.com)).
 - Show or hide any column you want from the table.
 
-##Usage on a local web server
+## Usage on a local web server
 
 - Download or clone this repository in the corresponding directory.
 - Update composer packages.
@@ -24,7 +24,7 @@ Here's the list of the features (v0.1.0):
    - `npm update`
 - Launch it.
 
-##Usage on desktop
+## Usage on desktop
 
 The desktop version uses [cztomczak/phpdesktop](https://github.com/cztomczak/phpdesktop).
 
@@ -32,18 +32,18 @@ The desktop version uses [cztomczak/phpdesktop](https://github.com/cztomczak/php
 - Extract its content in the directory you want.
 - Start `ctrnf-sheet.exe`.
 
-##Used libraries
+## Used libraries
 
-###From composer
+### From composer
 
 - [symfony/var-dumper](https://github.com/symfony/var-dumper)
 - [softius/php-cross-domain-proxy](https://github.com/softius/php-cross-domain-proxy)
 
-###From NPM
+### From NPM
 
 - [axios/axios](https://github.com/axios/axios)
 
-##Notes
+## Notes
 
 No framework have been used, all of the code have been done from scratch.
 
