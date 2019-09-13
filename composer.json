@@ -1,0 +1,23 @@
+{
+    "name": "kbibollet/ctrnf-sheet",
+    "type": "project",
+    "authors": [
+        {
+            "name": "iArcadia",
+            "email": "bibollet.kevin@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/var-dumper": "^4.3",
+        "geekality/php-cross-domain-proxy": "^2.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/",
+            "Database\\": "database/"
+        },
+        "files": [
+            "src/helper.php"
+        ]
+    }
+}
