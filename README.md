@@ -18,7 +18,7 @@ Here's the list of the features (v0.1.0):
 
 ## Usage on a local web server
 
-- Download or clone this repository in the corresponding directory.
+- [Download](https://github.com/iArcadia/ctrnf-sheet/releases/latest) the sources or clone this repository in the corresponding directory.
 - Update composer packages.
    - `composer update`
 - Update npm packages.
@@ -29,7 +29,7 @@ Here's the list of the features (v0.1.0):
 
 The desktop version uses [cztomczak/phpdesktop](https://github.com/cztomczak/phpdesktop).
 
-- Download the latest release desktop archive.
+- [Download](https://github.com/iArcadia/ctrnf-sheet/releases/latest) the latest release desktop archive.
 - Extract its content in the directory you want.
 - Start `ctrnf-sheet.exe`.
 
