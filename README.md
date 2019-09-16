@@ -14,6 +14,7 @@ Here's the list of the features (v0.1.0):
 - Calculate your best theoric time based on your best lap and best first lap on each track, with how far your best time is.
 - Search and tell how far your best time and best lap are from the world records (taken from [crashteamracing.com](https://crashteamracing.com)).
 - Show or hide any column you want from the table.
+- Give a different track each based on the date if you don't know which one to try hard.
 - Switch between english and french translations.
 
 ## Usage on a local web server
